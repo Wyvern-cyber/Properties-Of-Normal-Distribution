@@ -1,6 +1,3 @@
-# 013-C109-BellCurve-2
-# This is a python script made by @somePythonProgrammer
-# for a WhiteHat Junior project.
 
 import pandas as pd
 import plotly.figure_factory as ff
